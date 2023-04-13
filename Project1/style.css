@@ -186,11 +186,6 @@ textarea {
   white-space: nowrap;
 }
 
-@charset "UTF-8";
-
-.svg-inline--fa {
-  vertical-align: -0.200em;
-}
 
 .rounded-social-buttons {
   text-align: center;
